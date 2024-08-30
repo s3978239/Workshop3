@@ -17,7 +17,7 @@ public class GitPractice {
    }
 
    public static void groupMember1() {
-      System.out.println("Group Member 1: Hello World!");
+      System.out.println("This is Huy/DT");
    }
 
    public static void groupMember2() {
