@@ -25,7 +25,7 @@ public class GitPractice {
    }
 
    public static void groupMember3() {
-      System.out.println("This is Khoi/DT");
+      System.out.println("This is Khoi");
    }
 
    public static void mergeConflictArea() {
